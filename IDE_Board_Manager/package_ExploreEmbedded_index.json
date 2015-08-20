@@ -14,9 +14,9 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/ExploreEmbedded/Arduino_Boards/raw/master/IDE_Board_Manager/exploreembeddedavrboards.zip",
-          "archiveFileName": "exploreembeddedavrboards.zip",
-          "checksum": "SHA-256:c53235d8d7b396efc9e2fca6bdaa5a322152db5cf0177ae9d9431266f7d7724c",
+          "url": "https://www.exploreembedded.com/wiki/images/0/0c/Exploreembeddedavrboards.zip",
+          "archiveFileName": "Exploreembeddedavrboards.zip",
+          "checksum": "SHA-256:C53235D8D7B396EFC9E2FCA6BDAA5A322152DB5CF0177AE9D9431266F7D7724C",
           "size": "14336",
           "help": {
             "online": "https://exploreembedded.com/wiki"
