@@ -14,16 +14,16 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/ExploreEmbedded/Arduino_Boards/raw/master/IDE_Board_Manager/exploreembeddedboards.zip",
-          "archiveFileName": "exploreembeddedboards.zip",
-          "checksum": "SHA-256:10d8614fa610dcffd57318726d79c10c83e14cef068308f988b28d0c9135352c",
+          "url": "https://github.com/ExploreEmbedded/Arduino_Boards/raw/master/IDE_Board_Manager/exploreembeddedavrboards.zip",
+          "archiveFileName": "exploreembeddedavrboards.zip",
+          "checksum": "SHA-256:9192108ef1fc0673b78fb855407b4d8ee7c6cab80ac69182af34723b8cd7a529",
           "size": "15320",
           "help": {
             "online": "https://exploreembedded.com/wiki"
           },
           "boards": [
             {
-              "name": "Explore Atmega128"
+              "name": "ExploreEmbedded Atmega128"
             }
           ],
           "toolsDependencies": [
